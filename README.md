@@ -1,5 +1,8 @@
 # RWBYRED Repo
 
+## Link to Questions
+* [questions](https://github.com/rwbyred/questions)
+
 <!--
 **rwbyred/rwbyred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
