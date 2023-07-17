@@ -1,9 +1,4 @@
-# RWBYRED Repo
+# RWBYRED Repos
 
 ## Collaborative Repositories
-
-### stances.csv
-
-**header**
-
-user,stance,id
+Primary used for collaborative public communication projects 
